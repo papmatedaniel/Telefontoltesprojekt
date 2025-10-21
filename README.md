@@ -1,1 +1,1 @@
-# Phone charging projekt for Matthew
+# Phone charging project for Matthew
